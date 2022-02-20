@@ -21,5 +21,26 @@ Pada file main akan menampilkan 3 tingkatan kelas
   3. menampilkan contoh penggunaan kelas memory (derived class 2) sehingga memiliki atribut dari kelas hardware dan product.
 
 
+
+HASIL PROGRAM
+Berikut screenshot hasil program latihan 2
+  1. Java
+  
+  ![alt text](https://github.com/joynelly/LATIHAN2DPBO2022/blob/main/screenshot/java.png?raw=true)
+
+  2. PHP
+  
+  ![alt text](https://github.com/joynelly/LATIHAN2DPBO2022/blob/main/screenshot/php.png?raw=true)
+
+  3. Python
+  
+  ![alt text](https://github.com/joynelly/LATIHAN2DPBO2022/blob/main/screenshot/python.png?raw=true)
+
+  4. C++
+  
+  ![alt text](https://github.com/joynelly/LATIHAN2DPBO2022/blob/main/screenshot/cpp.png?raw=true)
+
+
+
 Sekian tugas latihan 2 DPBO, mohon maaf jika masih banyak kekurangannya.
 Terima kasih :)
