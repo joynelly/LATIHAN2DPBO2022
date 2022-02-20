@@ -9,6 +9,7 @@ Kelas hardware merupakan turunan dari kelas product dan merupakan intermediary c
 Kelas memory merupakan turunan dari kelas hardware.
 
 contoh gambar ilustrasi inheritance yang saya gunakan.
+
 ![alt text](https://github.com/joynelly/LATIHAN2DPBO2022/blob/main/screenshot/ilustrasi.png?raw=true)
 
 ALGORITMA PROGRAM
